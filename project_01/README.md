@@ -4,15 +4,15 @@
 
 [1. Описание проекта](https://github.com/Djlighter/data_science/blob/main/project_01/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/Djlighter/data_science/blob/main/project_01/README.md#Какой-кейс-решаем?)
+[2. Какой кейс решаем?](https://github.com/Djlighter/data_science/blob/main/project_01/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/Djlighter/data_science/blob/main/project_01/README.md)
+[3. Краткая информация о данных]()
 
-[4. Этапы работы над проектом](https://github.com/Djlighter/data_science/blob/main/project_01/README.md)
+[4. Этапы работы над проектом]()
 
-[5. Результат](https://github.com/Djlighter/data_science/blob/main/project_01/README.md)
+[5. Результат](https://github.com/Djlighter/data_science/blob/main/project_01/README.md#результат)
 
-[6. Выводы](https://github.com/Djlighter/data_science/blob/main/project_01/README.md)
+[6. Выводы]()
 
 
 ### Описание проекта
@@ -33,4 +33,12 @@
 
 **Что практикуем**
 
-Учимся писать хороший код на pthon
+Учимся писать хороший код на python
+
+[к оглавлению](https://github.com/Djlighter/data_science/blob/main/project_01/README.md#Оглавление)
+
+### Результат
+
+Удалось решить задачу с результатом в 8 попыток для угадывания заданного числа
+
+[к оглавлению](https://github.com/Djlighter/data_science/blob/main/project_01/README.md#Оглавление)
